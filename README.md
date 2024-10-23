@@ -3,7 +3,7 @@
 Este projeto tem como objetivo apresentar os conceitos e a prática dos principais serviços de armazenamento da Azure. Ele abrange a criação e gerenciamento de diferentes tipos de armazenamento, como Blob Storage, File Share e Disk Storage, usando o **Azure Portal**, **Azure CLI** e **Terraform**.
 #### Requisitos necessários:
 
-Para criar devidamente sua VM, certifique-se de:
+Para criar devidamente seu recurso, certifique-se de:
 1. Instalar o **Terraform** na sua máquina local.
 2. Configurar a **Azure CLI** para autenticação.
 
